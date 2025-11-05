@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **AI Automation solutions at Swaran Soft** - building enterprise-level automation tools including the Gignaati Docker Automation App and real-time conversational AI voice agents<br>
+🔭 I'm currently working as **AI Engineer at Smartians AI** (Swaran Soft's AI division) - building cutting-edge AI automation solutions and enterprise-level intelligent systems<br>
 👯 I'm looking to collaborate on **AI/ML projects, workflow automation tools, and full-stack web applications** that solve real-world problems<br>
 🤝 I'm looking for help with **advanced AI model optimization** and **scaling microservices architecture**<br>
 🌱 I'm currently learning **advanced LLM integrations, container orchestration, and OpenVINO**<br>
@@ -24,7 +24,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAnuragsrivastav&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Work Experience
-**AI Automation Intern @ Swaran Soft** (April 2024 - Present)
+**AI Engineer @ Smartians AI** (September 2024 - Present)
+- Building enterprise AI automation solutions and intelligent systems
+- Developing advanced LLM integrations and workflow automation tools
+- Leading AI-driven product development initiatives
+
+**AI Automation Intern @ Swaran Soft** (April 2024 - September 2024)
 - Reduced deployment time by 85% with automated Docker solutions
 - Achieved sub-200ms latency in real-time AI voice agents
 - Improved website performance by 60% through optimization
