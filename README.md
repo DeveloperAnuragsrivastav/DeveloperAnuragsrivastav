@@ -1,52 +1,145 @@
-# 💫 About Me:
-🔭 I'm currently working as **AI Engineer at Smartians AI** (Swaran Soft's AI division) - building cutting-edge AI automation solutions and enterprise-level intelligent systems<br>
-👯 I'm looking to collaborate on **AI/ML projects, workflow automation tools, and full-stack web applications** that solve real-world problems<br>
-🤝 I'm looking for help with **advanced AI model optimization** and **scaling microservices architecture**<br>
-🌱 I'm currently learning **advanced LLM integrations, container orchestration, and OpenVINO**<br>
-💬 Ask me about **OpenAI API, n8n workflow automation, Docker deployment, MERN stack, and building production-ready AI applications**<br>
-⚡ Fun fact: **I reduced enterprise deployment time by 85% with a one-click automation solution and built a voice AI agent with sub-200ms latency!**
 
-## 🚀 Current Projects
-- **Gignaati Docker Automation App** - Cross-platform Electron.js app for seamless Docker, n8n, and Ollama setup
-- **OpenAI Real-Time Voice Agent** - Low-latency conversational AI with WebSocket integration
-- **AI-Powered Outreach Automation** - Hyper-personalized LinkedIn scraping with story-driven email generation
-- **Hospital Feedback Management System** - Multilingual AI agent for automated patient feedback routing
+# Hey, I'm Anurag Srivastav 👋
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### AI Automation Engineer | LLM Agents | Production AI Systems
 
-### 🤖 AI & Automation:
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+I build AI-powered automation systems, agentic workflows, and full-stack products that solve real business problems.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeveloperAnuragsrivastav&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DeveloperAnuragsrivastav&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAnuragsrivastav&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 Work Experience
-**AI Engineer @ Smartians AI** (September 2024 - Present)
-- Building enterprise AI automation solutions and intelligent systems
-- Developing advanced LLM integrations and workflow automation tools
-- Leading AI-driven product development initiatives
-
-**AI Automation Intern @ Swaran Soft** (April 2024 - September 2024)
-- Reduced deployment time by 85% with automated Docker solutions
-- Achieved sub-200ms latency in real-time AI voice agents
-- Improved website performance by 60% through optimization
-
-**MERN Stack Development Intern @ CETPA Infotech** (Jan 2024 - March 2024)
-- Built production-ready full-stack applications
-- Specialized in scalable MongoDB, Express.js, React.js, Node.js solutions
-
-## 🎓 Education
-**Bachelor of Computer Applications (BCA)** - Integral University (2021-2024)
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragsrivastav) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragsrivastav)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.anuragsrivastav@gmail.com)
+- 🔭 **Currently:** AI Automation Engineer at EZ Rankings
+- 🤖 **Focus:** LLM integrations, AI agents, workflow automation, and production AI systems
+- 🛠️ **Building with:** Python, n8n, OpenAI API, LangChain, Supabase, Docker, and React
+- 🌱 **Exploring:** Agentic AI, LangGraph, local LLM deployment, and AI infrastructure
+- 👯 **Interested in:** AI engineering, developer tools, intelligent automation, and full-stack applications
+- 💬 **Ask me about:** n8n, LLM integrations, AI agents, Docker, Python, and production automation
+- 🌐 **Portfolio:** [anuragsrivastav.in](https://anuragsrivastav.in)
+- 📫 **Email:** developer.anuragsrivastav@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DeveloperAnuragsrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Work
+
+### 🖥️ Gignaati Workbench
+An AI PC solution built on HP and Intel hardware, packaged to help enterprise clients explore and deploy AI capabilities.
+
+### 🐳 Docker Automation Workbench
+A cross-platform Electron.js application that automates Docker, n8n, and Ollama setup with dependency resolution and daemon health checks.
+
+**Impact:** Reduced deployment time by 85%.
+
+### 🎙️ Real-Time AI Voice Agent
+A conversational AI system using the OpenAI API and WebSockets, designed for low-latency voice interactions.
+
+**Reported result:** Sub-200ms response latency in the implemented environment.
+
+### 🏥 Hospital Feedback AI Agent
+A multilingual AI feedback system for BMRC Hospital featuring sentiment analysis, department-based routing, Gmail alerts, and Supabase persistence.
+
+### 📩 AI-Powered Outreach Automation
+An automated outreach pipeline that researches prospects and generates personalized communications for enterprise clients.
+
+**Scale:** Targets 200+ prospects daily.
+
+### 🌐 Production Web Development
+Built and shipped the live website for Koca, Yuvraj Singh's restaurant brand, using React.js and Tailwind CSS.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### Backend, Frontend & Databases
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Infrastructure & Developer Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### AI Automation Engineer — EZ Rankings
+**June 2026 – Present**
+
+- Designing and implementing automation solutions to streamline business processes.
+- Building workflows and intelligent systems that reduce repetitive manual work.
+
+### AI/ML Engineer — Swaran Soft
+**October 2025 – March 2026**
+
+- Architected Gignaati Workbench, an enterprise AI PC solution built around HP and Intel hardware.
+- Delivered a 10-day AI and automation training program for 200+ PhD-level professors at CSJMU Kanpur.
+- Built and shipped Koca's production website using React.js and Tailwind CSS.
+- Developed autonomous outreach workflows targeting 200+ prospects daily.
+- Deployed a multilingual hospital feedback agent with sentiment analysis and department routing.
+- Worked on DigitalOcean infrastructure and local LLM inference using Ollama.
+
+### AI/ML Intern — Swaran Soft
+**April 2025 – September 2025**
+
+- Built a cross-platform Docker automation application using Electron.js.
+- Reduced deployment time by 85% through automated environment setup.
+- Developed a real-time AI voice agent using OpenAI and WebSockets.
+- Improved website loading performance by 60% through optimization.
+
+### Full-Stack Developer Intern — CETPA Infotech
+**August 2024 – January 2025**
+
+- Developed full-stack web applications using MongoDB, Express.js, React, and Node.js.
+- Implemented REST APIs and integrated third-party services.
+- Troubleshot application issues and improved performance.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Integral University, Lucknow | 2021–2024
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperAnuragsrivastav&show_icons=true&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DeveloperAnuragsrivastav&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAnuragsrivastav&layout=compact&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-srivastav-ai/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anuragsrivastav.in)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.anuragsrivastav@gmail.com)
+
+---
+
+⭐ *Building practical AI systems, one workflow at a time.*
